@@ -15,8 +15,11 @@ Hometown: Manistee, MI
 Background: Amateur, Python
 
 
-Chris Murdter 
+Chris Murdter
 murdterc@msu.edu
 
 Moesta, Henry
 moestahe@msu.edu
+
+Pamela Himadewi
+himadewi@msu.edu
