@@ -13,3 +13,7 @@ Year: 2nd Year
 Hometown: Manistee, MI
 
 Background: Amateur, Python
+
+
+Chris Murdter 
+murdterc@msu.edu
